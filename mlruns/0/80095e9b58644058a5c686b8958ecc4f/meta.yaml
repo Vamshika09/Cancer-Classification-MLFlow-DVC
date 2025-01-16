@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vamshika/Cancer-Classification-MLFlow-DVC/mlruns/0/80095e9b58644058a5c686b8958ecc4f/artifacts
+end_time: 1736992897835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80095e9b58644058a5c686b8958ecc4f
+run_name: nosy-bass-592
+run_uuid: 80095e9b58644058a5c686b8958ecc4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736992892554
+status: 3
+tags: []
+user_id: vamshika

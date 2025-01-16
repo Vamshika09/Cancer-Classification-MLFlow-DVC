@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vamshika/Cancer-Classification-MLFlow-DVC/mlruns/0/41af88e2ec4c4ccfbb94e030a472762d/artifacts
+end_time: 1736994074826
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41af88e2ec4c4ccfbb94e030a472762d
+run_name: bald-mouse-273
+run_uuid: 41af88e2ec4c4ccfbb94e030a472762d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736994069700
+status: 3
+tags: []
+user_id: vamshika
